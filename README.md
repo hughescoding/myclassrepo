@@ -2,4 +2,4 @@
 My Class Repo
 Learning about repo!
 
-put directions here! ABout project, how to make it work, etc.
+Put directions here! About project, how to make it work, etc.
